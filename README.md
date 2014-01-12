@@ -1,4 +1,4 @@
 fishingmap
 ==========
 
-Geodata from FishingMap.ru (geojson format)
+Geodata from FishingMap.ru (geojson format): http://fishingmap.ru/geojson.php
