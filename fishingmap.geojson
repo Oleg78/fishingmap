@@ -1830,4 +1830,36 @@
 				"Name": "Гостевой дом «У Степаныча»",
 				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=589",
 				"marker-color": "#555555",
-				"marker-symbol": "campsite"}      } ]}
+				"marker-symbol": "campsite"}      },{ "type": "Feature",      "geometry": {"type": "Point", "coordinates": [34.0861129760742187500000,48.8851501183546659490275]},      "properties": {"ID": "590",
+				"Name": "Рыболовная база &quot;Берег&quot;",
+				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=590",
+				"marker-color": "#555555",
+				"marker-symbol": "campsite"}      },{ "type": "Feature",      "geometry": {"type": "Point", "coordinates": [37.7866923809051513671875,55.7882231783540945002642]},      "properties": {"ID": "591",
+				"Name": "Рыболов на Измайловской ярмарке",
+				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=591",
+				"marker-color": "#5498F5",
+				"marker-symbol": "warehouse"}      },{ "type": "Feature",      "geometry": {"type": "Point", "coordinates": [25.4762434959411585566613,53.3392911948924179910136]},      "properties": {"ID": "592",
+				"Name": "Раготна",
+				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=592",
+				"marker-color": "#FFFFFF",
+				"marker-symbol": "star-stroked"}      },{ "type": "Feature",      "geometry": {"type": "Point", "coordinates": [37.6700592041015625000000,56.0380644445459026314893]},      "properties": {"ID": "593",
+				"Name": "Мыс",
+				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=593",
+				"marker-color": "#5e9651",
+				"marker-symbol": "star"}      },{ "type": "Feature",      "geometry": {"type": "Point", "coordinates": [37.7389383316039968008226,55.6394846115719872159389]},      "properties": {"ID": "594",
+				"Name": "щука,окунь,судак,жерех",
+				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=594",
+				"marker-color": "#5e9651",
+				"marker-symbol": "star"}      },{ "type": "Feature",      "geometry": {"type": "Point", "coordinates": [28.5615348815918004277137,53.9261162566125094031122]},      "properties": {"ID": "595",
+				"Name": "окунёвое озеро",
+				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=595",
+				"marker-color": "#5e9651",
+				"marker-symbol": "star"}      },{ "type": "Feature",      "geometry": {"type": "Point", "coordinates": [30.1258850097656250000000,59.5652723181827283838174]},      "properties": {"ID": "596",
+				"Name": "Магазин товаров для активного отдыха &quot;КОМПАС&quot;",
+				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=596",
+				"marker-color": "#5498F5",
+				"marker-symbol": "warehouse"}      },{ "type": "Feature",      "geometry": {"type": "Point", "coordinates": [37.7900505065917968750000,55.7505089425735533836814]},      "properties": {"ID": "597",
+				"Name": "Магазин &quot;Рыболов в Перово&quot;",
+				"Description": "http://fishingmap.ru?p=hotspot&action=show&id=597",
+				"marker-color": "#5498F5",
+				"marker-symbol": "warehouse"}      }, ]}
